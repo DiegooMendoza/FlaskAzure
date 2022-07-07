@@ -60,4 +60,4 @@ jobs:
         with:
           app-name: 'BelltechBoxSize'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_543160F81AD147CE9474DE71EBECB0FF }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_8B067794DBF84DBFA14850399748751C }}
