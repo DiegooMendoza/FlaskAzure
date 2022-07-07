@@ -1,11 +1,5 @@
 from datetime import datetime
-from flask import Flask, render_template, request, redirect, url_for, send_from_directory, Response
-import jsonpickle
-import numpy as np
-import cv2
-
-
-
+from flask import Flask, render_template, request, redirect, url_for, send_from_directory
 app = Flask(__name__)
 
 
